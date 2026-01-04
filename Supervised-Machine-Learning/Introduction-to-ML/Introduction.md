@@ -1,4 +1,5 @@
-https://chatgpt.com/s/t_695a24321f0c819186bf11ad53f02776
+https://chatgpt.com/s/t_695a27adc9a881919ee1306c53761c80
+
 ## 📘 **Module 1 – Week 1: Introduction to Machine Learning**
 
 ---
