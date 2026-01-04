@@ -1,3 +1,4 @@
+https://chatgpt.com/s/t_695a24321f0c819186bf11ad53f02776
 ## 📘 **Module 1 – Week 1: Introduction to Machine Learning**
 
 ---
@@ -222,12 +223,5 @@ Choosing α correctly is critical.
 **Optimization = Gradient Descent**
 
 ---
-
-If you want, I can next:
-
-* 📄 Convert this into **PDF / handwritten-style notes**
-* 🧮 Add **numerical solved examples**
-* 🧑‍💻 Include **Python code for Week 1**
-* 📊 Prepare **exam questions & answers**
-
-Just tell me 👍
+Numerical Solved Examples
+https://chatgpt.com/s/t_695a228b64a48191b1b494a8644699d8
